@@ -219,7 +219,7 @@ function App() {
           <h2 className="text-2xl md:text-4xl lg:text-5xl">Lens Studio</h2>
         </div>
         <div className="w-full bg-[#D1D1D1] flex items-center justify-center mx-auto py-24 md:py-36 relative z-999 text-center px-6">
-          <p className="text-xl md:text-3xl lg:text-5xl w-full md:w-3/4 leading-relaxed md:leading-[4.2rem] text-black font-regular text-left">
+          <p className="text-xl h-screen md:text-3xl lg:text-5xl w-full md:w-3/4 leading-relaxed md:leading-[4.2rem] text-black font-regular text-left">
             The web is my infinite canvas, and code is my medium. I don't just build sites; I compose them, weaving raw logic into a living bridge between ethereal design and grounded architecture. Every line I write is a deliberate, clean stroke—crafted with the precision of an artist and the soul of a storyteller—to transform your vision into an immersive digital reality®
           </p>
         </div>
